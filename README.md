@@ -54,6 +54,60 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" alt="kubernetes logo"  />
+  <!-- Visual Studio Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo" />
+  <img width="12" />
+  
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo" />
+  <img width="12" />
+  
+  <!-- Jest -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
+  <img width="12" />
+  
+  <!-- Postman -->
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo" />
+  <img width="12" />
+  
+  <!-- Grafana -->
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="40" alt="grafana logo" />
+  <img width="12" />
+  
+  <!-- ELK Stack (Elasticsearch, Logstash, Kibana) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original-wordmark.svg" height="40" alt="elasticsearch logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" height="40" alt="elastic logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" height="40" alt="kibana logo" />
+  <img width="12" />
+  
+  <!-- Swagger -->
+  <img src="https://www.vectorlogo.zone/logos/swagger/swagger-icon.svg" height="40" alt="swagger logo" />
+  <img width="12" />
+  
+  <!-- Maven -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="40" alt="apache logo" />
+  <img width="12" />
+  
+  <!-- npm -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
+  <img width="12" />
+  
+  <!-- Yarn -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" height="40" alt="yarn logo" />
+  <img width="12" />
+  
+  <!-- CircleCI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" height="40" alt="circleci logo" />
+  <img width="12" />
+  
+  <!-- Figma -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img width="12" />
+  
+  <!-- Notion -->
+  <img src="https://www.vectorlogo.zone/logos/notion/notion-icon.svg" height="40" alt="notion logo" />
 </div>
 
 ###
