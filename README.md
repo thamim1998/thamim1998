@@ -82,10 +82,6 @@
   <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" height="40" alt="kibana logo" />
   <img width="12" />
   
-  <!-- Swagger -->
-  <img src="https://www.vectorlogo.zone/logos/swagger/swagger-icon.svg" height="40" alt="swagger logo" />
-  <img width="12" />
-  
   <!-- Maven -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="40" alt="apache logo" />
   <img width="12" />
@@ -106,9 +102,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
   <img width="12" />
   
-  <!-- Notion -->
-  <img src="https://www.vectorlogo.zone/logos/notion/notion-icon.svg" height="40" alt="notion logo" />
-</div>
+  </div>
 
 ###
 
