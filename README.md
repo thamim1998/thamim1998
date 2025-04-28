@@ -1,13 +1,5 @@
 ###
 
-<div align="center">
- <a href="https://www.linkedin.com/in/thamimul-ansari-901177160/">
-
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-
-</a>
-</div>
-
 ###
 
 <div align="center">
@@ -24,7 +16,7 @@
 
 ###
 
-<p align="left">I’m a Master’s graduate in Computer Science with a specialization in Software Engineering.<br><br>- 🔭 I’m working as Full Stack Developer at Wearit<br>- 📚 Actively seeking full-time roles to contribute and grow in the tech industry.<br></p>
+<p align="left">I’m a Master’s graduate in Computer Science with a specialization in Software Engineering.<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 Actively seeking full-time roles to contribute and grow in the tech industry.<br></p>
 
 ###
 
