@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I’m a Master’s graduate in Computer Science with a specialization in Software Engineering.<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 Actively seeking full-time roles to contribute and grow in the tech industry.<br></p>
+<p align="left">I’m a Master’s graduate in Computer Science with a specialization in Software Engineering.<br><br>- 🔭 I’m a Full Stack Developer<br>- 📚 Actively seeking full-time roles to contribute and grow in the tech industry.<br></p>
 
 ###
 
